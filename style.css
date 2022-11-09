@@ -36,7 +36,6 @@ ul {
 body {
     background-color: #121214;
     background: var(--body-bg);
-    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
