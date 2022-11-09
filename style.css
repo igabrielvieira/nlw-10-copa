@@ -12,21 +12,21 @@
     --card-color-primary: #F7DD43;
     --card-title-border-color: #746615; 
     --card-bg-color: #1D1C19;
-    --body-bg: url('imagens/bg-yellow.svg');
+    --body-bg: url('./imagens/bg-yellow.svg');
 }
 
 body.blue {
     --card-color-primary: #338AF3;
     --card-title-border-color: #338AF3; 
     --card-bg-color: #202024;
-    --body-bg: url('imagens/bg-blue.svg');
+    --body-bg: url('./imagens/bg-blue.svg');
 }
 
 body.green {
     --card-color-primary: #047C3F;
     --card-title-border-color: #047C3F; 
     --card-bg-color: #1A1F1B;
-    --body-bg: url('imagens/bg-green.svg');
+    --body-bg: url('./imagens/bg-green.svg');
 }
 
 ul {
